@@ -1,0 +1,6 @@
+{
+  "name": "심장과 순환기관 퀴즈 마스터",
+  "description": "우리 몸의 심장 구조, 혈관의 종류, 혈액 순환 과정에 대한 체계적인 학습과 맞춤형 AI 퀴즈 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
